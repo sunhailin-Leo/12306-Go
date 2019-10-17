@@ -1,0 +1,82 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "m5ALQFNvPsEKhiUH27L9hY+/Jn0=",
+			"path": "github.com/go-resty/resty",
+			"revision": "de0735f66dae7abf8fb1073b4ace3032c1491424",
+			"revisionTime": "2019-10-10T08:26:59Z"
+		},
+		{
+			"checksumSHA1": "k01ApcZ1+3DnP578X2o0ULascgk=",
+			"path": "github.com/konsorten/go-windows-terminal-sequences",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "D5jVUTl7HrJrdH95IxfLeSZifKQ=",
+			"path": "github.com/lestrrat/go-file-rotatelogs",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "VFdd7/gnXSPEQqUMSI9ufakRMnI=",
+			"path": "github.com/lestrrat/go-strftime",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "D8T850eEdd8ksx+Tk7VnKUdjDpI=",
+			"path": "github.com/liyu4/tablewriter",
+			"revision": "10e1368fe17480b42d7dbbdc6ec5ca4e6f4da96c",
+			"revisionTime": "2017-02-10T02:28:31Z"
+		},
+		{
+			"checksumSHA1": "qR7D38Zmn9TPUvGn64k+r0+Kq1c=",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "703b5e6b11ae25aeb2af9ebb5d5fdf8fa2575211",
+			"revisionTime": "2018-12-18T00:06:49Z"
+		},
+		{
+			"checksumSHA1": "I7hloldMJZTqUx6hbVDp5nk9fZQ=",
+			"path": "github.com/pkg/errors",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "H/uL3j4L8U+//7NvzC+j5y8aaH4=",
+			"path": "github.com/rifflock/lfshook",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "4GI/G+nYyCQ3ltASSBIunUr2LYk=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "ZFGlLHbqA1zff8kJfwFv4H0eEDY=",
+			"path": "github.com/tidwall/gjson",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "8jl+NYRKijAXkUwjpy89Q60q00A=",
+			"path": "github.com/tidwall/match",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "ijmGS83faLA6LVpdeGkyRhqvQgM=",
+			"path": "github.com/tidwall/pretty",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "AlqaWdaQLMkri+lkRJsvVdFNFg4=",
+			"path": "golang.org/x/net/publicsuffix",
+			"revision": "a7b16738d86b947dd0fadb08ca2c2342b51958b6",
+			"revisionTime": "2019-09-08T16:12:21Z"
+		},
+		{
+			"checksumSHA1": "064stJ5spsAjBhM8lMZYfaVdFM8=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "749cb33beabd9aa6d3178e3de05bcc914f70b2bf",
+			"revisionTime": "2019-09-04T09:25:27Z"
+		}
+	],
+	"rootPath": "12306-Go"
+}
