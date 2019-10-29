@@ -28,7 +28,7 @@ func (s *ServerLogger) configureLogToLocal() {
 		rotatelogs.WithRotationTime(s.rotationTime), // 日志切割时间间隔
 	)
 	if err != nil {
-		logrus.Fatalf("[视频转码服务]配置日志本地化操作失败, 错误原因: %v", err)
+		logrus.Fatalf("[12306查询助手]配置日志本地化操作失败, 错误原因: %v", err)
 	}
 	lfHook := lfshook.NewHook(lfshook.WriterMap{
 		logrus.DebugLevel: writer,
